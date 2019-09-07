@@ -1,0 +1,11 @@
+{
+   "groups" : [
+        {
+            "_id" : 1,
+            "name" : "Test Group",
+            "is_root" : true,
+            "sub_group" : [],
+            "channel" : [1]
+        }
+    ]
+}

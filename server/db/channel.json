@@ -1,0 +1,9 @@
+{
+   "channels" : [
+        {
+            "_id" : 1,
+            "name" : "Test Channel",
+            "users" : [1,2,3]
+        }
+    ]
+}
